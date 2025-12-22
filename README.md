@@ -27,6 +27,8 @@ I am continuously learning and exploring technical and educational topics to str
   - PyTorch
 - **Databases**
   - SQL
+  - Languages and Tools:
+git pandas postgresql python pytorch scikit_learn seaborn selenium tensorflow
 
 ---
 
