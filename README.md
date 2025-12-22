@@ -3,7 +3,7 @@
 ## 🌞  About Me
 I am passionate about learning new technologies and educational platforms, and I enjoy improving productivity through data-driven and computational approaches.
 
-I am interested in growing as a **Data Scientist/ Computational Scientist**, focusing on solving real-world problems using modern analytical and machine learning techniques.
+I am interested in growing as a **Data Scientist / Computational Scientist**, focusing on solving real-world problems using modern analytical and machine learning techniques.
 
 I have a strong academic background with:
 - 🎓 **Bachelor of Computer Science**
