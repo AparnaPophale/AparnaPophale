@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aparna Pophale
 
-## 🚀 About Me
+## 🌞  About Me
 I am passionate about learning new technologies and educational platforms, and I enjoy improving productivity through data-driven and computational approaches.
 
 I am interested in growing as a **Data Scientist/ Computational Scientist**, focusing on solving real-world problems using modern analytical and machine learning techniques.
@@ -9,7 +9,7 @@ I have a strong academic background with:
 - 🎓 **Bachelor of Computer Science**
 - 🎓 **Master of Business Administration (MBA)**
 
-⭐️ *I am continuously learning and exploring technical and educational topics to strengthen both my analytical and strategic thinking skills.*
+⭐️ *Always curious, always learning.*
 
 ---
 
