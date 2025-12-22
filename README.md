@@ -14,20 +14,7 @@ I am continuously learning and exploring technical and educational topics to str
 ---
 
 ## 🧠 Technical Skills
-
-### Programming & Data Science
-- **Python**
-  - NumPy
-  - Pandas
-  - Scikit-learn
-  - Matplotlib
-  - Seaborn
-- **Machine Learning / Deep Learning**
-  - TensorFlow
-  - PyTorch
-- **Databases**
-  - SQL
-  <p align="left">
+ <p align="left">
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
@@ -44,6 +31,19 @@ I am continuously learning and exploring technical and educational topics to str
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
+### Programming & Data Science
+- **Python**
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - Matplotlib
+  - Seaborn
+- **Machine Learning / Deep Learning**
+  - TensorFlow
+  - PyTorch
+- **Databases**
+  - SQL
+ 
 ---
 
 ## 📊 Interests
