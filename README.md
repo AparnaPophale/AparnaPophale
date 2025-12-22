@@ -9,7 +9,7 @@ I have a strong academic background with:
 - 🎓 **Bachelor of Computer Science**
 - 🎓 **Master of Business Administration (MBA)**
 
-I am continuously learning and exploring technical and educational topics to strengthen both my analytical and strategic thinking skills.
+⭐️ *I am continuously learning and exploring technical and educational topics to strengthen both my analytical and strategic thinking skills.*
 
 ---
 
@@ -67,5 +67,3 @@ I am continuously learning and exploring technical and educational topics to str
 - LinkedIn: [Add your LinkedIn link here]
 
 ---
-
-⭐️ *Always curious, always learning.*
