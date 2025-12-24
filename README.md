@@ -47,7 +47,7 @@ I have a strong academic background with:
 ---
 
 ## 📊 Interests
-  Computational Science | Data Science & Machine Learning | Real-world problem solving | Educational & technical platforms | Productivity and automation
+- Computational Science | Data Science & Machine Learning | Real-world problem solving | Educational & technical platforms | Productivity and automation*
 ---
 
 ## 🌱 Currently Learning
