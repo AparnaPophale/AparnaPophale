@@ -75,4 +75,3 @@ I have a strong academic background with:
   </a>
 </p>
 
----
