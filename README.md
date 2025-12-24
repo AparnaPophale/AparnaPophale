@@ -60,5 +60,22 @@ I have a strong academic background with:
 ## 📫 Let's Connect
 - GitHub: [https://github.com/AparnaPophale]
 - LinkedIn: [Link]
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/AparnaPophale" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub"
+         width="40"
+         height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         width="40"
+         height="40"/>
+  </a>
+</p>
 
 ---
