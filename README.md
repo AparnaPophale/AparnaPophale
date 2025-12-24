@@ -63,7 +63,7 @@ I have a strong academic background with:
 ---
 
 ## 📫 Let's Connect
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
-- LinkedIn: [Add your LinkedIn link here]
+- GitHub: [https://github.com/AparnaPophale]
+- LinkedIn: [Link]
 
 ---
