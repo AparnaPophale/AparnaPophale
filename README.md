@@ -1,15 +1,13 @@
 # Hi there 👋 I'm Aparna Pophale
 
 ## 🌞  About Me
-I am passionate about learning new technologies and educational platforms, and I enjoy improving productivity through data-driven and computational approaches.
+I am interested in **Data Science**, with a focus on solving real-world problems using Python-based numerical computing and machine learning.
 
-I am interested in growing as a **Data Scientist / Computational Scientist**, focusing on solving real-world problems using modern analytical and machine learning techniques.
+I enjoy building projects that connect data, algorithms, and practical applications, especially in education and productivity domains.
 
-I have a strong academic background with:
+Academic background:
 - 🎓 **Bachelor of Computer Science**
 - 🎓 **Master of Business Administration (MBA)**
-
-⭐️ *Always curious, always learning.*
 
 ---
 
@@ -35,6 +33,7 @@ I have a strong academic background with:
 - **Python**
   - NumPy
   - Pandas
+  - SciPy
   - Scikit-learn
   - Matplotlib
   - Seaborn
@@ -47,13 +46,10 @@ I have a strong academic background with:
 ---
 
 ## 📊 Interests
-- Computational Science | Data Science & Machine Learning | Real-world problem solving | Educational & technical platforms | Productivity and automation
+- Data Science & Machine Learning | Numerical Computing (NumPy ecosystem) | Educational and AI-driven systems | Data-driven decision-making
 ---
 
-## 🌱 Currently Learning
-- Advanced Machine Learning techniques
-- Deep Learning model optimization
-- Data-driven decision-making
+## 🌱 Projects
 
 ---
 
