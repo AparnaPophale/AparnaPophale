@@ -19,6 +19,7 @@ Academic background:
   <!-- Data Science -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
 
   <!-- Deep Learning -->
