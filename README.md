@@ -49,7 +49,6 @@ Academic background:
 
 ## 🌱 Projects
 
----
 
 ## 📫 Let's Connect
 
