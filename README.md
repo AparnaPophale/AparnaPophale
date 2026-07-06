@@ -9,7 +9,6 @@ Academic background:
 - 🎓 **Bachelor of Computer Science**
 - 🎓 **Master of Business Administration (MBA)**
 
----
 
 ## 🧠 Technical Skills
  <p align="left">
@@ -44,11 +43,9 @@ Academic background:
 - **Databases**
   - SQL
  
----
 
 ## 📊 Interests
 - Data Science & Machine Learning | Numerical Computing (NumPy ecosystem) | Educational and AI-driven systems | Data-driven decision-making
----
 
 ## 🌱 Projects
 
