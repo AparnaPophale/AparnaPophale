@@ -47,10 +47,6 @@ Academic background:
 ## 📊 Interests
 - Data Science & Machine Learning | Numerical Computing (NumPy ecosystem) | Educational and AI-driven systems | Data-driven decision-making
 
-## 🌱 Projects
-- **Google Advanced Analytics Capstone Project** -
-- Repository: - https://github.com/AparnaPophale/GoogleADA
-
 
 ## 📫 Let's Connect
 
