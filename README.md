@@ -1,16 +1,11 @@
 # Hi there 👋 I'm Aparna Pophale
 
 ## 🌞  About Me
-I am interested in **Data Science**, with a focus on solving real-world problems using Python-based numerical computing and machine learning.
+With 9+ years of experience in technology, software quality assurance, and education operations, I bring a strong foundation in data analysis, Python, SQL, process improvement, and analytical problem-solving.
 
-I enjoy building projects that connect data, algorithms, and practical applications, especially in education and productivity domains.
+I am expanding my expertise in **Data Science, Machine Learning, and AI**, with hands-on experience in Python and its scientific computing ecosystem, including NumPy, Pandas, SciPy, and Scikit-learn.
 
-Academic background:
-- 🎓 **Master of Business Administration (MBA)**,
-      Pune University, India
-- 🎓 **Bachelor of Computer Science**,
-      Pune University, India
- 
+I am interested in applying Data Science and AI in EdTech and Higher Education, focusing on Learning Analytics, student engagement, student success, and data-driven decision-making to improve educational outcomes.
 
 
 ## 🧠 Technical Skills
@@ -45,7 +40,12 @@ Academic background:
   - PyTorch
 - **Databases**
   - SQL
- 
+
+ ## 🎓Academic background
+- **Master of Business Administration (MBA)**,
+  Pune University, India
+- **Bachelor of Computer Science**,
+  Pune University, India
 
 ## 📊 Interests
 - Data Science & Machine Learning | Numerical Computing (NumPy ecosystem) | Educational and AI-driven systems | Data-driven decision-making
