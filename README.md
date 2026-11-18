@@ -6,9 +6,9 @@ I am interested in **Data Science**, with a focus on solving real-world problems
 I enjoy building projects that connect data, algorithms, and practical applications, especially in education and productivity domains.
 
 Academic background:
-- 🎓 **Master of Business Administration (MBA)**
+- 🎓 **Master of Business Administration (MBA)**,
       Pune Universty, India
-- 🎓 **Bachelor of Computer Science**
+- 🎓 **Bachelor of Computer Science**,
       Pune University, India
  
 
