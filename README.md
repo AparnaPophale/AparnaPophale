@@ -7,7 +7,7 @@ I enjoy building projects that connect data, algorithms, and practical applicati
 
 Academic background:
 - 🎓 **Master of Business Administration (MBA)**,
-      Pune Universty, India
+      Pune University, India
 - 🎓 **Bachelor of Computer Science**,
       Pune University, India
  
